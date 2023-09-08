@@ -1,8 +1,9 @@
-- 👋 Hi,I’m @niti34ds 
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning ethical courses
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on Instagram @sercastic_nitin59
+👋 Hi, I'm Nitin Yadav
+🎓 Computer Science Engineering Student
+💻 Proficient in Python, Java, and web development
+🤖 Passionate about machine learning and AI
+🌐 Currently working on a web-based project using React
+🚀 Aspiring to build innovative solutions in the tech world
 
 <!---
 niti34ds/niti34ds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
